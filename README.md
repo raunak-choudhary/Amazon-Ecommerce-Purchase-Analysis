@@ -33,6 +33,14 @@ This project is a data analysis exercise completed during my internship at **Gre
 - 1,033 customers had credit cards expiring in **2025**
 - Top email domains: `hotmail.com`, `yahoo.com`, `gmail.com`
 
+## 🔗 Other Projects of this Internship
+
+- **Project 2: Insurance Cost Statistical Analysis**  
+  [GitHub Link](https://github.com/raunak-choudhary/Insurance-Cost-Statistical-Analysis-Data-Science-Internship-2020.git)
+
+- **Project 3: LaLiga Statistics Analysis**  
+  [GitHub Link](https://github.com/raunak-choudhary/LaLiga-Statistics-Analysis-Data-Science-Internship-2020.git)
+
 ## 👨‍💻 Author
 
 **Raunak Choudhary**  
